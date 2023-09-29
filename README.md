@@ -15,3 +15,8 @@ https://www.hackerearth.com/docs/wiki/developers/v4/
 https://platform.openai.com/docs/introduction
 
 ![img.png](img.png)
+
+Technical Errors:
+1. My API key was shut off because it's saying its public on Github. I'm not sure how to fix that. 
+2. I am getting an import error on Okhttp and JSON stuff. I think it has something to do with Maven
+but it seems like a very complex bug to fix. Will we be walked through how to do it?
